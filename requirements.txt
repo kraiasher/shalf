@@ -1,0 +1,9 @@
+jupyterlab
+ipywidgets
+jupyterlab_widgets
+sklearn
+pandas
+numpy
+xlrd
+openpyxl
+matplotlib
